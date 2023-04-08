@@ -1,0 +1,15 @@
+@import "/global_styles/scss/variables";
+
+.cardContent {
+  .heading-sm {
+    margin-bottom: $spacing-stack-xxxs;
+  }
+
+  .subtitle-sm {
+    margin-bottom: $spacing-stack-xxs;
+  }
+
+  .paragraph {
+    margin-bottom: $spacing-stack-sm;
+  }
+}

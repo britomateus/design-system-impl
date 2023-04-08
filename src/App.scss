@@ -1,0 +1,18 @@
+@import "/global_styles/scss/variables";
+
+.sample {
+  margin-left: $spacing-stack-nano;
+}
+
+.sample-heading {
+  margin-top: $spacing-stack-xxs;
+  margin-bottom: $spacing-stack-xxxs;
+}
+
+.sample-subtitle {
+  margin-bottom: $spacing-stack-xxs;
+}
+
+.sample-paragraph {
+  margin-bottom: $spacing-stack-xl;
+}

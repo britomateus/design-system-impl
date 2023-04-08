@@ -1,0 +1,21 @@
+@import "/global_styles/scss/variables";
+
+.btn-primary {
+  font-size: $font-size-sm;
+  line-height: $line-height-tight;
+  border-radius: $border-radius-none;
+  padding: $spacing-squish-xs-stack;
+
+  font-family: $font-family-highlight;
+  font-weight: $font-weight-medium;
+  color: $color-neutral-5;
+  background-color: $color-brand-primary-3;
+}
+
+.btn-primary:active {
+  background-color: $color-brand-primary-2;
+}
+
+.pressed {
+  background-color: $color-brand-primary-2;
+}

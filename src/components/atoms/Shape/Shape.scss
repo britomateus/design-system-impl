@@ -1,0 +1,10 @@
+@import "/global_styles/scss/variables";
+
+.shape {
+  border-radius: $border-radius-none;
+  padding: $spacing-inset-lg;
+  border-width: $border-width-thin;
+
+  border-color: $color-neutral-4;
+  background-color: $color-neutral-5;
+}

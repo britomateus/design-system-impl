@@ -1,0 +1,15 @@
+/**
+ * CSS to Reset some default styles from HTML Elements,
+ * and also import the external Archivo font, used in the design of the components
+ */
+
+@import url('https://fonts.cdnfonts.com/css/archivo');
+
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0;
+    border-style:solid;
+}

@@ -1,0 +1,10 @@
+@import "/global_styles/scss/variables";
+
+.subtitle-sm {
+  font-size: $font-size-md;
+  line-height: $line-height-medium;
+
+  font-family: $font-family-highlight;
+  font-weight: $font-weight-medium;
+  color: $color-neutral-2;
+}
